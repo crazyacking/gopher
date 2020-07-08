@@ -1,2 +1,3 @@
 # toBeGopher
-To Be Gopher - Go工程师启航之路
+
+To Be Gopher - The way the Go engineer set sail.
